@@ -76,5 +76,5 @@ async def on_ready():
   print(client.user.id)
   print('------')
 
-token = "NTE0OTcyMDY1MjQ2NDc4MzUy.DtfX6g.uR5qWbknsGoDveYU6r2Zd_wt7LY"
+token = "you're a sneaky one :)"
 client.run(token)
